@@ -1,6 +1,6 @@
 # NXINJECTOR V0.0.2
 
-This project is an advanced DLL injector for Windows, developed in C# with a modern Windows Forms interface. It supports injecting into both 32-bit and 64-bit processes through a robust multi-architecture management system.
+This project is an advanced DLL injector for Windows 10,11 , developed in C# with a modern Windows Forms interface. It supports injecting into both 32-bit and 64-bit processes through a robust multi-architecture management system.
 
 Key Features
 
@@ -45,5 +45,9 @@ Techniques Used
 
 - tiktok : https://tiktok.com/@.xthxn
 - instagram : https://instagram.com/nxth9n
+
+# ScreenShots
+
+![image](https://github.com/user-attachments/assets/b59e67c9-f309-456f-b61a-77a0b181d309)
 
 
