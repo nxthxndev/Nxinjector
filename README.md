@@ -1,27 +1,49 @@
-# Nxinjector v 2.0
-DLL injector created in C++. When you launch it, you will see an interface where you have to choose the running software and then specify the path of the DLL you want to inject. Bypass of some AntiCheat. For ethical purposes only!
+# NXINJECTOR V0.0.2
+
+This project is an advanced DLL injector for Windows, developed in C# with a modern Windows Forms interface. It supports injecting into both 32-bit and 64-bit processes through a robust multi-architecture management system.
+
+Key Features
+
+- Classic DLL injection via LoadLibrary
+
+- Stealth injection via manual mapping (soon)
+
+- Full support for 32-bit and 64-bit target processes
+
+- User-friendly UI to select target process and DLL to inject
+
+- Automatic detection of target process architecture
+
+- Embedding and automatic extraction of 32/64-bit injectors for simplified deployment
+
+# USAGE
+
+1 - Select the target process from the dropdown list.
+
+2 - Choose the DLL to inject.
+
+3 - Click “Inject”.
+
+4 - The program automatically detects the target process architecture and performs the appropriate injection method.
+
+
+
+# TECH 
+
+Techniques Used
+
+- Windows API P/Invoke for injection and memory manipulation
+
+- Windows manifest for privilege elevation
+
+- Resource embedding for packaging multi-EXE injectors into a single launcher EXE
+
+- Modern and performant UI with .NET 8 Windows Forms
+
 
 # Socials Accounts :
 
-tiktok : https://tiktok.com/@.xthxn
-instagram : https://instagram.com/nxth9n
+- tiktok : https://tiktok.com/@.xthxn
+- instagram : https://instagram.com/nxth9n
 
 
-# Download : 
-
-The software is too big to be uploaded to GitHub, so I'll give you the drive link below to download the software.
-There are no viruses, even if Windows insists on it, or even Google. I advise you to remove your Anti-Virus.
-
-https://drive.google.com/file/d/1lgWOe98K6sGEYYM3cKy2b-EVmLJ2dHOd/view?usp=sharing
-
-
-# screenshot : 
-
-![image](https://github.com/user-attachments/assets/1287d90f-1f48-4e61-8843-05c1f44235be)
-
-
-language french. 
-
-# read : 
-
-This script was created for educational purposes only, use it for legal purposes. Any illegal use will be in no way my fault. Use at your own risk.
