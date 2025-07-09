@@ -51,6 +51,7 @@ Key Features
 
 # ScreenShots
 
-![image](https://github.com/user-attachments/assets/b59e67c9-f309-456f-b61a-77a0b181d309)
+![image](https://github.com/user-attachments/assets/3330722c-d4be-478b-a631-09abb8fa238c)
+
 
 
