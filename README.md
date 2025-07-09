@@ -9,7 +9,7 @@ Key Features
 
 **- Classic DLL injection via LoadLibrary**
 
-**- Stealth injection via manual mapping (soon)**
+**- Stealth injection via manual mapping ( BETA in V0.0.4 )**
 
 **- Full support for 32-bit and 64-bit target processes**
 
